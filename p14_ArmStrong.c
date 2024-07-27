@@ -7,7 +7,7 @@ int main(){
     int pl = a;
     if (a == 1 || a == 0)
     {
-        printf("Armstrong numeber.");
+        printf("Armstrong number.");
     }else{
         while(pl > 0){
             cf++;
